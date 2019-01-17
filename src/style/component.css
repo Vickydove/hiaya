@@ -1,0 +1,17 @@
+.el-dialog__header,.el-dialog__footer{
+    background-color:rgb(124, 113, 230);
+    
+}
+.el-dialog__close.el-icon.el-icon-close{
+    color: aliceblue;
+}
+.el-dialog__body{
+    background-color: aliceblue;
+}
+
+.el-header{
+    padding: 0;
+}
+.el-input{
+    width: 200px
+}
